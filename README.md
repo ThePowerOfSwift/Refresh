@@ -10,4 +10,4 @@
 
 ## 截图
 
-![1]()
+![1](https://github.com/firewolf-ljw/Refresh/blob/master/1.PNG?raw=true)
