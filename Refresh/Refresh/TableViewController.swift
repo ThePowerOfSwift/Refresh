@@ -26,7 +26,7 @@ class TableViewController: UIViewController {
         
         tableView.dataSource = self
         
-        example21()
+        example12()
     }
     
     func example01() {
